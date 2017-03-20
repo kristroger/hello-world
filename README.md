@@ -1,5 +1,5 @@
 # hello-world
-a simple repository
+a simple repo
 
-Hey!
-i am a web developer. I am passionate to technology.
+Hey world!
+i am a web developer. I am passionate to technology an sport.
